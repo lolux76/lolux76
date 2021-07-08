@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lolux76
-- 👀 I’m interested in computer science (especially softawre engineering, game development and AI) 
+- 👀 I’m interested in computer science (especially software engineering, game development and AI) 
 - 🌱 I’m currently learning some c++ stuffs and some basic AI
 
 
